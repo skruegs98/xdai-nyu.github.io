@@ -1,6 +1,19 @@
 # **Feedback Four**. 
-# Heading 1
-## Heading 2
+TEAM MEMBERS: Silvia Ramírez, Xualin Chen, Yuanyiyi Zhou, Sarah Krueger
+
+# High-Level Summary
+Adults 18+ + Professional Training Simulations & Resources + AI Feedback & Personal Optimization
+
+## Target Audience
+Adults 18+ seeking resources and personal assistance to achieve their professional goals 
+
+## Learning Need
+Identify Need 
+(Cite Sources) 
+
+## Learning Need + Proposed Tool = 
+Input how ai feedback asssitance for training amplifies the learning experience and could assist people in getting a job
+
 ### Heading 3
 
 **Bold text**
