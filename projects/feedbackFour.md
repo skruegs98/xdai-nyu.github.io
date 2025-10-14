@@ -2,12 +2,14 @@
 ## **Feedback Four**. 
 TEAM MEMBERS: Silvia Ramírez, Xualin Chen, Yuanyiyi Zhou, Sarah Krueger
 
-
 ## Project Title
 AI assistant for career feedback and optimization
 
 ## **Feedback Four**. 
 TEAM MEMBERS: Silvia Ramírez, Xualin Chen, Yuanyiyi Zhou, Sarah Krueger
+
+## **Needfinding Metholody & Findings**
+https://docs.google.com/presentation/d/1RZcfRp8yKrRObeeI4DbW6q6EoZhyFz9Qe6cwmUXQmZM/edit?usp=sharing
 
 ## High-Level Summary
 Adults 18+ + Professional Training Simulations & Resources + AI Feedback & Personal Optimization
